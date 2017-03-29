@@ -25,7 +25,7 @@ It allows us to write human understandable test scenario's. Because
 the scenario's are easy to write, they could be written by someone
 that has no knowledge of coding.
 
-We tell Behat what it has to doe by writing it down.
+We tell Behat what it has to do by writing it down.
 
 ## <a name="runningtests"></a> Running tests
 
